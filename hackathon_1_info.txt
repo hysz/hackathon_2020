@@ -1,0 +1,8 @@
+Shuffled Mnemonic:
+'distance amused member stay rack april invest purity educate food coyote predict'
+
+Address:
+"0x87024A054f582540dB774B85f42fD93888e34eD2"
+
+Derivation Path:
+"m/44'/60'/0'/0/0"
